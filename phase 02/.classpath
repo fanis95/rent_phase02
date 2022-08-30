@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="omadikh_2h_fash/src"/>
+	<classpathentry kind="lib" path="omadikh_2h_fash/dist/omadikh_1h_fash.jar"/>
+	<classpathentry kind="output" path="omadikh_2h_fash/build/classes"/>
+</classpath>
